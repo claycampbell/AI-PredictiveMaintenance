@@ -1,21 +1,4 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
  
-@claycampbell 
-0
-039claycampbell/AI-PredictiveMaintenance
-forked from Azure/AI-PredictiveMaintenance
- Code Pull requests 0 Projects 0 Wiki Security Insights Settings
-AI-PredictiveMaintenance/src/ARMTemplates/linuxDsvm.json
-@laramume laramume remove ciqs files
-dfb292b on Aug 9, 2018
-233 lines (232 sloc)  8.79 KB
-  
 {
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
@@ -240,15 +223,3 @@ dfb292b on Aug 9, 2018
         }
     }
 }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
